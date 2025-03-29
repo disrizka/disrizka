@@ -1,4 +1,4 @@
-"""![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:0d47a1&height=200&section=header&text=Hi%20there!%20I'm%20Lutfiah%20Rizka%20💙&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:0d47a1&height=200&section=header&text=Hi%20there!%20I'm%20Lutfiah%20Rizka%20💙&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
