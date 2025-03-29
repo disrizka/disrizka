@@ -116,7 +116,7 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwwOXBheDljbGNrM2dzZGRnZW10eDlnbmljNWZ1cGs1NW15aGQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0qjoCMU8akQCZwWJaD/giphy.gif" width="40"> Let's Connect!  
 
 <div align="center">
-  <a href="mailto:lutfiahrizka@gmail.com">
+   <a href="mailto:lutfiahrizka@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lutfiahrizka/">
