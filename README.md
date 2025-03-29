@@ -38,6 +38,8 @@
 💻 I love building mobile apps using **Flutter** and **Dart** with clean architecture and cool UI designs!  
 🎓 Currently studying at **Universitas Pancasila**, focusing on Software Engineering and Mobile App Development.
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN3ZTVrMGswbWc5Ymd1czB1ZjBvZ3NzYnZwcGNzY3I1cWsycjN6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Tech Stack & Skills  
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -85,7 +87,7 @@
 - 🤝 Looking to collaborate on open-source mobile projects
 - 🚀 Building apps that solve real problems & help people
 
-## 🛠️ Recent Projects  
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4M204YmYweXBvaTFwcDl5MWRhY3A2Nnk2bWlkMW9iZ2J3emdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Recent Projects  
 
 | 🚀 Project | 🔍 Description | 🌐 Tech Stack |
 |-----------|--------------|--------------|
