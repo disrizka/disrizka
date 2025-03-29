@@ -31,7 +31,6 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh4dno2bXBqZmUxZGFnZ245a3cwaTFuZGl0bHR2MjhwY3hsdzA5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2yGia6uX7kQ4bPW/giphy.gif" width="50"> About Me  
 
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-## 👋 About Me
 
 **Mobile Developer | 6th-Semester Informatics Engineering Student | Software Engineering Enthusiast**
 
@@ -42,15 +41,17 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#">
-        <img src="https://techicons.dev/icons/flutter" alt="Flutter" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
+             alt="Flutter" width="65" height="65" />
       </a>
       <br>Flutter
     </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
+             alt="Firebase" width="65" height="65" />
       </a>
       <br>Firebase
     </td>
@@ -89,31 +90,56 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4M204YmYweXBvaTFwcDl5MWRhY3A2Nnk2bWlkMW9iZ2J3emdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Recent Projects  
 
-| 🚀 Project | 🔍 Description | 🌐 Tech Stack |
+| <img width="30" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3htNnlucjJucWgyMGJiODZlcTF5cDZ6dXRkMmZrOHN3czh1Z3MxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvFocn0wNMx0iv2rYz/giphy.gif"> Project | 🔍 Description | 🌐 Tech Stack |
 |-----------|--------------|--------------|
-| **Quran Tracker App** | Flutter app for tracking Quran reading progress | Flutter, Firebase, Firestore |
-| **DIEKSPOR Platform** | Digital export/import platform for MSMEs | Flutter, REST API, Firebase |
-| **Library Guest Book** | Laravel-based digital guest book system | Laravel, PHP, MySQL |
+| **Quran Tracker App** | Flutter app for tracking Quran reading progress with beautiful visualizations | Flutter, Firebase, Firestore, Provider |
+| **DIEKSPOR Platform** | Digital export/import platform for MSMEs with comprehensive documentation | Flutter, REST API, Firebase, Bloc |
+| **Library Guest Book** | Laravel-based digital guest book system with analytics | Laravel, PHP, MySQL, Ajax |
 
 🔗 **[See More Projects](https://github.com/disrizka)**  
+
 ## 🧠 Tech Interests
 
 - 📱 Mobile Development
 - 🎨 UI/UX Design
 - 💬 Tech Community & Open Source
 
-## 📫 Let's Connect!
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwwOXBheDljbGNrM2dzZGRnZW10eDlnbmljNWZ1cGs1NW15aGQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0qjoCMU8akQCZwWJaD/giphy.gif" width="40"> Let's Connect!  
 
-- 📧 Email: lutfiahrizka@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lutfiahrizka)
-- 🧠 Ask me about: Flutter, Firebase, Mobile UI/UX
+<div align="center">
+  <a href="mailto:lutfiahrizka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lutfiahrizka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/disrizka">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/disrizka">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+<!-- 👁️ Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LutfiahRizka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ---
 
-## 🎉 Fun Fact
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E2aG1iZ2x2ODkxdXdpM2Ztc3JqeDNubmdxdjRtaG5tcTJ1Y2ZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uqjD9OexmQJRB/giphy.gif" width="35"> Fun Facts  
 
-I'm a friendly 😊 and creative 🎨 person who loves cats 🐱, good matcha 🍵, and crafting meaningful applications 💻 that create an impact ✨.
+<img align="right" height="180" width="220" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlncW84OXc3NnphZnp3OG01dnYyZjd3ejBlZnF2bjE2NWpnOTdpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"/>
 
+
+- 😺 Love **cats** and have two fluffy companions! 
+- 🍵 Addicted to **matcha** everything - lattes, ice cream, cake! 
+- 🚀 Always exploring **cool app ideas** in my free time
+- 📚 Enjoy reading tech blogs and **UI/UX case studies**
+- 🎵 Code better with lo-fi music playing in the background
+- ✨ Passionate about **coding**, **designing**, and **helping others** with tech
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer&text=Let's%20build%20something%20awesome%20together!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
