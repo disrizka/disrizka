@@ -37,6 +37,8 @@
 💻 I love building mobile apps using **Flutter** and **Dart** with clean architecture and cool UI designs!  
 🎓 Currently studying at **Universitas Pancasila**, focusing on Software Engineering and Mobile App Development.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN3ZTVrMGswbWc5Ymd1czB1ZjBvZ3NzYnZwcGNzY3I1cWsycjN6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Tech Stack & Skills  
 
 <table>
@@ -82,11 +84,15 @@
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Recent Activities
 
 - 🌱 Learning advanced **State Management** in Flutter
 - 🤝 Looking to collaborate on open-source mobile projects
 - 🚀 Building apps that solve real problems & help people
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4M204YmYweXBvaTFwcDl5MWRhY3A2Nnk2bWlkMW9iZ2J3emdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Recent Projects  
 
@@ -98,11 +104,14 @@
 
 🔗 **[See More Projects](https://github.com/disrizka)**  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🧠 Tech Interests
 
 - 📱 Mobile Development
 - 🎨 UI/UX Design
 - 💬 Tech Community & Open Source
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwwOXBheDljbGNrM2dzZGRnZW10eDlnbmljNWZ1cGs1NW15aGQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0qjoCMU8akQCZwWJaD/giphy.gif" width="40"> Let's Connect!  
 
@@ -126,7 +135,7 @@
   <img src="https://komarev.com/ghpvc/?username=LutfiahRizka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E2aG1iZ2x2ODkxdXdpM2Ztc3JqeDNubmdxdjRtaG5tcTJ1Y2ZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uqjD9OexmQJRB/giphy.gif" width="35"> Fun Facts  
