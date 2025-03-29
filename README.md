@@ -51,6 +51,15 @@
 - 🤝 Looking to collaborate on open-source mobile projects
 - 🚀 Building apps that solve real problems & help people
 
+## 🛠️ Recent Projects  
+
+| 🚀 Project | 🔍 Description | 🌐 Tech Stack |
+|-----------|--------------|--------------|
+| **Quran Tracker App** | Flutter app for tracking Quran reading progress | Flutter, Firebase, Firestore |
+| **DIEKSPOR Platform** | Digital export/import platform for MSMEs | Flutter, REST API, Firebase |
+| **Library Guest Book** | Laravel-based digital guest book system | Laravel, PHP, MySQL |
+
+🔗 **[See More Projects](https://github.com/disrizka)**  
 ## 🧠 Tech Interests
 
 - 📱 Mobile Development
