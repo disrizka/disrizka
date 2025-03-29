@@ -1,5 +1,3 @@
-# Re-run the code after execution state reset to regenerate the README.md file
-
 readme_content = """![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:0d47a1&height=200&section=header&text=Hi%20there!%20I'm%20Lutfiah%20Rizka%20💙&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
@@ -48,10 +46,4 @@ readme_content = """![Welcome Banner](https://capsule-render.vercel.app/api?type
 I'm a friendly 😊 and creative 🎨 person who loves cats 🐱, good matcha 🍵, and crafting meaningful applications 💻 that create an impact ✨.
 
 ---
-"""
 
-file_path = "/mnt/data/README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
