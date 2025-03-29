@@ -38,12 +38,46 @@
 💻 I love building mobile apps using **Flutter** and **Dart** with clean architecture and cool UI designs!  
 🎓 Currently studying at **Universitas Pancasila**, focusing on Software Engineering and Mobile App Development.
 
-## 💡 What I Use
-
-- 🔥 **Firebase** – Authentication, Realtime Database
-- 🌐 **REST APIs** – for dynamic & real-time features
-- 💾 **Sqflite** – for local data storage
-- 🎨 **Figma** – UI/UX design before coding
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Recent Activities
 
